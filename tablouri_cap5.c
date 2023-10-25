@@ -219,5 +219,5 @@ return 0;
 }
 
 
-
+//mi se pare o prostie codul tau!
 
